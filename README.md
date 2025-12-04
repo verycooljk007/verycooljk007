@@ -9,7 +9,7 @@
     <td valign="top" width="50%">
       <h2><samp><span style="color:#F66A0A">👤 > SYSTEM_BIO</span></samp></h2>
       <p>
-        <code> AI & Automations | Cybersecurity | Python</code>
+        <code> Quant Analyst | Cybersecurity | Python</code>
         <br/><br/>
         <b>>> ⚡ STATUS:</b> Building algorithmic trading strategies and financial analysis tools.<br/><br/>
         <b>>> 🏢 CURRENT_ORG:</b> Founder of Castlemore Road Strategies.
@@ -32,10 +32,17 @@
 </table>
 
 <div align="center">
-  <h2><samp><span style="color:#F66A0A">📉 > MARKET_ACTIVITY</span></samp></h2>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=verycooljk007&bg_color=0d1117&color=f66a0a&line=f66a0a&point=ffffff&area=true&hide_border=true" />
+  <h2><samp><span style="color:#F66A0A">📉 > MARKET_ACTIVITY_3D</span></samp></h2>
+  <img src="https://raw.githubusercontent.com/verycooljk007/verycooljk007/main/profile-3d-contrib/profile-night-view.svg" alt="3D Contribution Graph" width="100%" />
 </div>
 
 <div align="center">
   <br />
-  <h3><samp><span style
+  <h3><samp><span style="color:#F66A0A">📡 > TRANSMISSION_LINKS</span></samp></h3>
+  <a href="https://www.linkedin.com/in/meshaalkhan/">
+    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:mkhan2@learn.athabascau.ca">
+    <img src="https://img.shields.io/badge/EMAIL_ME-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
