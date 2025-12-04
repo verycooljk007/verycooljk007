@@ -28,13 +28,11 @@
            <img src="https://placehold.co/600x3/F66A0A/F66A0A.png" alt="border" width="100%" />
     </td>
         <td valign="top" width="50%">
-      <img src="https://placehold.co/600x3/F66A0A/F66A0A.png" alt="border" width="100%" />
             <h2><samp><span style="color:#F66A0A">📊 > DATA_FEED</span></samp></h2>
-      <img src="https://github-readme-stats.vercel.app/api?username=verycooljk007&show_icons=true&bg_color=0d1117&title_color=f66a0a&text_color=ffffff&icon_color=f66a0a&hide_border=true" alt="Stats" />
-      <br/>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=verycooljk007&layout=compact&bg_color=0d1117&title_color=f66a0a&text_color=ffffff&hide_border=true" alt="Languages" />
-            <img src="https://placehold.co/600x3/F66A0A/F66A0A.png" alt="border" width="100%" />
-    </td>
+                       <img src="https://github-readme-stats.vercel.app/api?username=verycooljk007&show_icons=true&bg_color=0d1117&title_color=f66a0a&text_color=ffffff&icon_color=f66a0a&hide_border=true&disable_animations=true&cache_seconds=7200" alt="Stats" />
+            <br/>
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=verycooljk007&layout=compact&bg_color=0d1117&title_color=f66a0a&text_color=ffffff&hide_border=true&disable_animations=true&cache_seconds=7200" alt="Languages" />
+          </td>
   </tr>
 </table>
 
