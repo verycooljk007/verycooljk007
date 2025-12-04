@@ -39,7 +39,7 @@
 </table>
 
 <div align="center">
-  <h2><samp><span style="color:#F66A0A">📉 > MARKET_ACTIVITY_3D</span></samp></h2>
+  <h2><samp><span style="color:#F66A0A">📉 > MARKET_ACTIVITY_(Github*)</span></samp></h2>
   <img src="https://raw.githubusercontent.com/verycooljk007/verycooljk007/main/profile-3d-contrib/profile-night-view.svg" alt="3D Contribution Graph" width="100%" />
 </div>
 
