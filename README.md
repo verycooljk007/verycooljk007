@@ -4,29 +4,36 @@
   </a>
 </div>
 
+<br />
+
 <table align="center">
   <tr>
     <td valign="top" width="50%">
-      <h2><samp><span style="color:#F66A0A">👤 > SYSTEM_BIO</span></samp></h2>
+      <img src="https://placehold.co/600x3/F66A0A/F66A0A.png" alt="border" width="100%" />
+            <h2><samp><span style="color:#F66A0A">👤 > SYSTEM_BIO</span></samp></h2>
       <p>
         <code> Quant Analyst | Cybersecurity | Python</code>
         <br/><br/>
         <b>>> ⚡ STATUS:</b> Building algorithmic trading strategies and financial analysis tools.<br/><br/>
         <b>>> 🏢 CURRENT_ORG:</b> Founder of Castlemore Road Strategies.
       </p>
-          <h3><samp><span style="color:#F66A0A">💻 > TECH_STACK</span></samp></h3>
+            <img src="https://placehold.co/600x3/F66A0A/F66A0A.png" alt="border" width="100%" />
+            <h3><samp><span style="color:#F66A0A">💻 > TECH_STACK</span></samp></h3>
       <p>
         <img src="https://img.shields.io/badge/PINE_SCRIPT-000000?style=for-the-badge&logo=tradingview&logoColor=white" />
         <img src="https://img.shields.io/badge/PYTHON-000000?style=for-the-badge&logo=python&logoColor=white" />
         <img src="https://img.shields.io/badge/PANDAS-000000?style=for-the-badge&logo=pandas&logoColor=white" />
         <img src="https://img.shields.io/badge/GIT-000000?style=for-the-badge&logo=git&logoColor=white" />
       </p>
+           <img src="https://placehold.co/600x3/F66A0A/F66A0A.png" alt="border" width="100%" />
     </td>
-    <td valign="top" width="50%">
-      <h2><samp><span style="color:#F66A0A">📊 > DATA_FEED</span></samp></h2>
+        <td valign="top" width="50%">
+      <img src="https://placehold.co/600x3/F66A0A/F66A0A.png" alt="border" width="100%" />
+            <h2><samp><span style="color:#F66A0A">📊 > DATA_FEED</span></samp></h2>
       <img src="https://github-readme-stats.vercel.app/api?username=verycooljk007&show_icons=true&bg_color=0d1117&title_color=f66a0a&text_color=ffffff&icon_color=f66a0a&hide_border=true" alt="Stats" />
       <br/>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=verycooljk007&layout=compact&bg_color=0d1117&title_color=f66a0a&text_color=ffffff&hide_border=true" alt="Languages" />
+            <img src="https://placehold.co/600x3/F66A0A/F66A0A.png" alt="border" width="100%" />
     </td>
   </tr>
 </table>
