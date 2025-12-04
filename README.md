@@ -7,14 +7,14 @@
 <table align="center">
   <tr>
     <td valign="top" width="50%">
-      <h2><samp>👤 > SYSTEM_BIO</samp></h2>
+      <h2><samp><span style="color:#F66A0A">👤 > SYSTEM_BIO</span></samp></h2>
       <p>
-        <code> Quant Analyst | Cybersecurity | Python</code>
+        <code> AI & Automations | Cybersecurity | Python</code>
         <br/><br/>
-        <b>>> ⚡ STATUS:</b> Building algorithmic trading strategies and financial analysis tools.<br/>
+        <b>>> ⚡ STATUS:</b> Building algorithmic trading strategies and financial analysis tools.<br/><br/>
         <b>>> 🏢 CURRENT_ORG:</b> Founder of Castlemore Road Strategies.
       </p>
-          <h3><samp>💻 > TECH_STACK</samp></h3>
+          <h3><samp><span style="color:#F66A0A">💻 > TECH_STACK</span></samp></h3>
       <p>
         <img src="https://img.shields.io/badge/PINE_SCRIPT-000000?style=for-the-badge&logo=tradingview&logoColor=white" />
         <img src="https://img.shields.io/badge/PYTHON-000000?style=for-the-badge&logo=python&logoColor=white" />
@@ -23,7 +23,7 @@
       </p>
     </td>
     <td valign="top" width="50%">
-      <h2><samp>📊 > DATA_FEED</samp></h2>
+      <h2><samp><span style="color:#F66A0A">📊 > DATA_FEED</span></samp></h2>
       <img src="https://github-readme-stats.vercel.app/api?username=verycooljk007&show_icons=true&bg_color=0d1117&title_color=f66a0a&text_color=ffffff&icon_color=f66a0a&hide_border=true" alt="Stats" />
       <br/>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=verycooljk007&layout=compact&bg_color=0d1117&title_color=f66a0a&text_color=ffffff&hide_border=true" alt="Languages" />
@@ -32,17 +32,10 @@
 </table>
 
 <div align="center">
-  <h2><samp>📉 > MARKET_ACTIVITY</samp></h2>
+  <h2><samp><span style="color:#F66A0A">📉 > MARKET_ACTIVITY</span></samp></h2>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=verycooljk007&bg_color=0d1117&color=f66a0a&line=f66a0a&point=ffffff&area=true&hide_border=true" />
 </div>
 
 <div align="center">
   <br />
-  <h3><samp>📡 > TRANSMISSION_LINKS</samp></h3>
-  <a href="https://www.linkedin.com/in/meshaalkhan/">
-    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:mkhan2@learn.athabascau.ca">
-    <img src="https://img.shields.io/badge/EMAIL_ME-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</div>
+  <h3><samp><span style
