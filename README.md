@@ -9,7 +9,7 @@
     <td valign="top" width="50%">
       <h2><samp>👤 > SYSTEM_BIO</samp></h2>
       <p>
-        <code>Quant Analyst | Pine Script | Python</code>
+        <code> Quant Analyst | Cybersecurity | Python</code>
         <br/><br/>
         <b>>> ⚡ STATUS:</b> Building algorithmic trading strategies and financial analysis tools.<br/>
         <b>>> 🏢 CURRENT_ORG:</b> Founder of Castlemore Road Strategies.
