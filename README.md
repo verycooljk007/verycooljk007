@@ -12,7 +12,7 @@
       <img src="https://placehold.co/600x3/F66A0A/F66A0A.png" alt="border" width="100%" />
             <h2><samp><span style="color:#F66A0A">👤 > SYSTEM_BIO</span></samp></h2>
       <p>
-        <code> Quant Analyst | Cybersecurity | Python</code>
+        <code> AI & Automation  | Cybersecurity | Quant Analyst </code>
         <br/><br/>
         <b>>> ⚡ STATUS:</b> Building algorithmic trading strategies and financial analysis tools.<br/><br/>
         <b>>> 🏢 CURRENT_ORG:</b> Founder of Castlemore Road Strategies.
